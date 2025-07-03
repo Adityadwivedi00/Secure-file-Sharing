@@ -1,6 +1,6 @@
 # Secure-file-Sharing
 # 🔐 Secure File Sharing System (Flask Version)
-
+-- one single file contribute for thi version
 This is a secure file-sharing backend built using **Flask**, **SQLite**, and **JWT authentication**. It supports two types of users:
 
 - 🛠 **Ops User** – can upload `.pptx`, `.docx`, and `.xlsx` files
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 another version    ......
 
-
+--All the remaining files contribute for this version .
 # 🔐 Secure File Sharing System – FastAPI
 
 This project implements a secure file-sharing backend using **FastAPI**, **SQLAlchemy**, **JWT authentication**, and a relational database (SQLite or PostgreSQL). It supports two types of users:
